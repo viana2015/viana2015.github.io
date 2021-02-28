@@ -458,7 +458,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    apiUrl: 'http://localhost:8080',
+    apiUrl: 'https://csp-api-2021.herokuapp.com',
     clientId: 'my-angular-app',
     clientSecret: '@2539',
     obterTokenUrl: '/oauth/token'
